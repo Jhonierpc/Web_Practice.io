@@ -56,7 +56,7 @@ header .barra-busqueda {
     text-align: center;
     font-size: 16px;
     border-radius: 100px;
-    box-shadow: 4px 4px 20px 0px rgba(0,0,0,0.5);
+    box-shadow: inset 0 2px 4px 0 hsla(0, 0%, 0%, 0.08);
     outline:none;
 }
 
@@ -108,7 +108,7 @@ header .categorias a.activo {
     width: 100%;
     cursor: pointer;
     vertical-align: top;
-    box-shadow: 4px 4px 20px 0px rgba(0,0,0,0.5);
+    box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
     transition: 0.2s linear
 }
 
